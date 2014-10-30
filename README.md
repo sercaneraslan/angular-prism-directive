@@ -5,7 +5,7 @@ Angular <a href="http://prismjs.com/">Prism</a> Directive
 
 Usage:
 
-- Include prism.js
+- Include prism.js and prism.css
 - Add "prism" attribute in the code tag.
 
 Example:

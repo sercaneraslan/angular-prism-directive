@@ -1,6 +1,6 @@
 <img align="center" height="108" src="https://www.angularjs.org/img/AngularJS-large.png">
 
-angular-prism-directive
+Angular Prism Directive
 =======================
 
 Angular <a href="http://prismjs.com/">Prism</a> Directive
@@ -19,3 +19,12 @@ console.log('Hello World');
    </code>
 </pre>
 ```
+
+## Contributing
+Feel free to open an issue or send a pull request.
+
+## License
+MIT License.
+
+## Author
+Copyright © 2014 Sercan Eraslan
